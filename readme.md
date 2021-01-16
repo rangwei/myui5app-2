@@ -1,6 +1,8 @@
 # myUI5App
 Insert the purpose of this project and some intersting infos here
 
+This project is just for testing purpose.
+
 ## Usage
 ### Local developement
 ```
